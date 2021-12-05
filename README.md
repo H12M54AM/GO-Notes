@@ -1,4 +1,4 @@
-# GO-Notes
+## GO-Notes
 
 #### To start off
 ```go
